@@ -67,9 +67,5 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-  
-
-  ### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+ 
 
