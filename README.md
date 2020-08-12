@@ -1,13 +1,10 @@
-# Pandas Challenge
+## Heroes of Pymoli Project using Pandas
 
+Project: Analyze the data for a recent fantasy game Heroes of Pymoli. Analyze thousands of records using Pandas to efficiently parse through it.
 
-## Heroes of Pymoli Assignment
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+Data analysis and final report included in Jupyter Notebook file. Insights include the following:
 
 ### Player Count
 
